@@ -6,10 +6,10 @@ $site_title = "♥CHAUDHRYS BOTTER♥ ";
 
 // using banned in role will show user that he is banned when he try to login . 
 $users = array(
-               "MrHeart" => array("name" => "zain", "role"=> "admin"),
-               "MrHeart" => array("name" => "junaid", "role"=> "admin"),
-               "MrHeart" => array("name" => "sohail", "role"=> "guest"),
-               "MrHeart" => array("name" => "arman", "role"=> "guest")
+               "Arman" => array("name" => "zain", "role"=> "admin"),
+               "Arman" => array("name" => "junaid", "role"=> "admin"),
+               "Arman" => array("name" => "sohail", "role"=> "guest"),
+               "Arman" => array("name" => "arman", "role"=> "guest")
                );
 
 if(isset($_SESSION['logged']) && !isset($users[$_SESSION['password']]) || $users[$_SESSION['password']]['role'] == 'banned'){
@@ -374,7 +374,7 @@ echo'
 </span>
 </div>
 <div class="post-meta2">
-<br><center><font color="green" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 </strong></marquee>
+<br><center><font color="green" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 Arman </strong></marquee>
 <br>
 </div></div></div>';
 }
