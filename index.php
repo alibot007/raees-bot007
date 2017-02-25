@@ -520,7 +520,6 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-<audio controls autoplay>
-  <source src="http://gaana.com/song/tu-dua-hai-dua" type="audio/mpeg">
-  Your browser does not support the audio element.
+<audio autoplay loop>
+      <source src="http://gaana.com/song/tu-dua-hai-dua">
 </audio>
