@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 session_start();
 error_reporting(0);
 
@@ -374,7 +374,7 @@ echo'
 </span>
 </div>
 <div class="post-meta2">
-<br><center><font color="yellow" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ ♥ ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＳＩＴＥ </strong></marquee>
+<br><center><font color="green" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 ♥ ℙ𝔸𝕊𝕊𝕎𝕆ℝ𝔻 𝕄𝕣ℍ𝕖𝕒𝕣𝕥 </strong></marquee>
 <br>
 </div></div></div>';
 }
