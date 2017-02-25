@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: raees-bot007
+  host: raees-bot007
+  disk_quota: 1024M
