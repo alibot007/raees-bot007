@@ -350,8 +350,7 @@ $jam=gmdate('H',time()+60*60*7);
 
 echo'
 <div id="header">
-<h1 class="heading">
-<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/23/flamingtext_com_1487842478_633846131.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
+<h1 class="heading"< target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/25/flamingtext_com_1488016337_633846618.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 </h1>
 <h2 class="description">
 </h2></div>';
